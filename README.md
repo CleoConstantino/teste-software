@@ -1,5 +1,5 @@
 
-# Testes automatizados + Curso completo de teste de software  
+# Testes automatizados + Curso completo de teste de software - Udemy 5h - 06/04/2020
   
 **O que é teste de software?**  
 Testar é verificar se a funcionalidade está atendendo corretamente, se tem o comportamento esperado e considerado correto, verificar para garantir que está funcionando da forma correta. Ex: testar a troca de marcha de uma bicicleta, apertar o botão do controle da televisão para ligá-la.  
